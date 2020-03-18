@@ -1,0 +1,83 @@
+[2020-02-08T16:18:43.716] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1
+[2020-02-08T16:21:15.496] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1
+[2020-02-08T16:52:55.650] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1
+[2020-02-09T18:00:37.275] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1
+[2020-02-10T11:28:01.796] [ERROR] default - error: SequelizeDatabaseError: relation "manufacturerentries" does not exist
+[2020-02-10T11:39:19.079] [ERROR] default - error: SequelizeDatabaseError: relation "manufacturerentries" does not exist
+[2020-02-10T11:52:36.688] [ERROR] default - error: SequelizeDatabaseError: relation "manufacturerentries" does not exist
+[2020-02-10T11:53:06.570] [ERROR] default - error: SequelizeDatabaseError: relation "manufacturerentries" does not exist
+[2020-02-10T12:12:28.837] [ERROR] default - error: SequelizeDatabaseError: relation "manufacturer_entries" does not exist
+[2020-02-10T12:55:04.681] [ERROR] default - error: SequelizeDatabaseError: relation "manufacturer_entries" does not exist
+[2020-02-11T10:52:43.774] [ERROR] default - error: SequelizeDatabaseError: value "436546575656" is out of range for type integer
+[2020-02-11T10:58:10.015] [ERROR] default - error: SequelizeDatabaseError: value "2355656556" is out of range for type integer
+[2020-02-11T11:00:57.294] [ERROR] default - error: SequelizeDatabaseError: value "2355656556" is out of range for type integer
+[2020-02-11T11:01:18.564] [ERROR] default - error: SequelizeDatabaseError: value "2355656556" is out of range for type integer
+[2020-02-11T11:31:37.713] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-02-11T11:31:37.718] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-02-11T11:32:34.056] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-02-11T11:32:34.065] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-02-11T11:33:39.741] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-02-11T11:33:39.745] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-02-11T16:52:16.171] [ERROR] default - error: SequelizeUniqueConstraintError: Validation error
+[2020-02-12T16:39:01.301] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-12T16:39:17.929] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-12T16:40:33.068] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-12T17:24:08.791] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-12T17:24:53.219] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-12T17:32:38.133] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-13T09:50:32.146] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-13T11:51:07.735] [ERROR] default - error: SequelizeDatabaseError: relation "public.openquantities" does not exist
+[2020-02-13T11:51:36.321] [ERROR] default - error: SequelizeDatabaseError: relation "openquantities" does not exist
+[2020-02-13T11:55:49.303] [ERROR] default - error: SequelizeDatabaseError: relation "openquantities" does not exist
+[2020-02-13T12:05:12.894] [ERROR] default - error: SequelizeDatabaseError: relation "public.openquantities" does not exist
+[2020-02-13T12:12:40.249] [ERROR] default - error: SequelizeDatabaseError: relation "openquantities" does not exist
+[2020-02-13T12:18:27.649] [ERROR] default - error: SequelizeDatabaseError: column "qtyid" does not exist
+[2020-02-13T12:48:42.429] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-13T12:58:46.689] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-13T14:34:16.072] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-13T14:46:18.516] [ERROR] default - error: SequelizeDatabaseError: column "itemid" does not exist
+[2020-02-13T15:10:19.850] [ERROR] default - error: SequelizeDatabaseError: column "itementries.itemCode" must appear in the GROUP BY clause or be used in an aggregate function
+[2020-02-13T15:16:29.587] [ERROR] default - error: SequelizeDatabaseError: column "itementries.itemCode" must appear in the GROUP BY clause or be used in an aggregate function
+[2020-02-25T14:57:15.390] [ERROR] default - error: ReferenceError: jwt is not defined
+[2020-02-25T17:27:38.356] [ERROR] default - error: SequelizeDatabaseError: relation "registerinfos" does not exist
+[2020-02-25T17:31:12.952] [ERROR] default - error: Error: data and hash arguments required
+[2020-02-26T14:56:36.088] [ERROR] default - error: SequelizeDatabaseError: column registerinfo.menuId does not exist
+[2020-02-26T14:57:13.527] [ERROR] default - error: SequelizeDatabaseError: column registerinfo.menuId does not exist
+[2020-02-26T17:47:00.379] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+[2020-02-26T17:48:59.987] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+[2020-02-27T10:21:47.471] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "afsana"
+[2020-02-27T16:00:31.354] [ERROR] default - error: SequelizeDatabaseError: column "mainmenuid" does not exist
+[2020-02-27T16:00:56.133] [ERROR] default - error: SequelizeDatabaseError: column "mainmenuid" does not exist
+[2020-02-27T16:01:01.587] [ERROR] default - error: SequelizeDatabaseError: column "mainmenuid" does not exist
+[2020-02-27T16:01:08.232] [ERROR] default - error: SequelizeDatabaseError: column "mainmenuid" does not exist
+[2020-02-27T16:01:29.001] [ERROR] default - error: SequelizeDatabaseError: column "mainmenuid" does not exist
+[2020-02-27T16:06:54.107] [ERROR] default - error: SequelizeDatabaseError: relation "permittedmenus" does not exist
+[2020-03-08T11:25:43.547] [ERROR] default - error: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1
+[2020-03-08T11:45:57.876] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-08T12:04:05.808] [ERROR] default - error: SequelizeDatabaseError: value "4365465756" is out of range for type integer
+[2020-03-08T12:05:45.803] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-03-08T12:05:45.808] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: ""
+[2020-03-08T13:05:10.588] [ERROR] default - error: TypeError: Cannot read property 'password' of undefined
+[2020-03-08T13:16:59.842] [ERROR] default - error: TypeError: Cannot read property 'password' of undefined
+[2020-03-08T13:18:25.026] [ERROR] default - error: TypeError: Cannot read property 'password' of undefined
+[2020-03-08T13:21:51.316] [ERROR] default - error: TypeError: Cannot read property 'password' of undefined
+[2020-03-08T13:26:23.349] [ERROR] default - error: SequelizeDatabaseError: relation "registerinfos" does not exist
+[2020-03-08T13:26:58.780] [ERROR] default - error: SequelizeDatabaseError: operator does not exist: character varying = integer
+[2020-03-08T13:29:23.988] [ERROR] default - error: TypeError: Cannot read property 'password' of undefined
+[2020-03-10T11:33:46.047] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-10T16:57:08.439] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-10T17:01:59.787] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-10T18:03:35.419] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-11T16:04:42.416] [ERROR] default - error: SequelizeDatabaseError: syntax error at or near "WHERE"
+[2020-03-11T16:05:42.175] [ERROR] default - error: SequelizeDatabaseError: syntax error at or near "WHERE"
+[2020-03-11T16:06:50.601] [ERROR] default - error: SequelizeDatabaseError: syntax error at or near ")"
+[2020-03-12T13:05:39.476] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "[object Object]"
+[2020-03-12T13:07:13.636] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "[object Object]"
+[2020-03-15T15:04:05.515] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-15T15:04:05.540] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-15T15:04:05.544] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-15T15:21:51.195] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-15T15:21:51.486] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-15T15:21:51.805] [ERROR] default - error: SequelizeDatabaseError: invalid input syntax for type integer: "undefined"
+[2020-03-16T12:09:41.994] [ERROR] default - error: SequelizeDatabaseError: relation "procmasters" does not exist
+[2020-03-16T12:09:41.997] [ERROR] default - error: SequelizeDatabaseError: relation "vouchers" does not exist
